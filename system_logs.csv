@@ -1,0 +1,7 @@
+timestamp,task_id,duration_minutes,status,user
+2024-03-01 08:30,T101,15,Success,User_A
+2024-03-01 09:15,T102,45,Success,User_B
+2024-03-01 10:00,T103,10,Failed,User_A
+2024-03-02 08:00,T104,20,Success,User_A
+2024-03-02 11:30,T105,35,Success,User_C
+2024-03-03 09:00,T106,12,Success,User_B
